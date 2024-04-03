@@ -1,24 +1,22 @@
 # git-auto-commit
 
-这是一个可以自动帮你保存代码的插件。在某一次不小心把咖啡洒在了电脑上而诞生。
+This is a plugin that can automatically save your code. It was born out of an accident where coffee spilled on the computer.
 
 ## Features
 
-核心功能。在最后代码写完最后输入的一小时后。会自动生成一次commit。内容为自动提交。
+Core features. One commit will be automatically generated one hour after the last code was written. The content is an automatic submission.
 
-每次提交都会有日志。
+There will be logs for each submission.
+
+Added support for Multi-root Workspaces in Visual Studio Code
 
 ![feature](image/img1.png)
 
-## 插件设置
+## Plugin Settings
 
-* `git-auto-commit.commitTimeInterval`: 自动commit间隔 默认为最后一次写代码后的 一小时。
-* `git-auto-commit.autoPush`: 是否自动推送到当前分支的远程。
+-   `git-auto-commit.commitTimeInterval`: Automatic commit interval, default is one hour after the last time code was written.
+-   `git-auto-commit.autoPush`: Whether to automatically push to the remote of the current branch.
 
-
-
-## 近期活动
-
-![Alt](https://repobeats.axiom.co/api/embed/87a2a5aeccf7cc60c31b46e577a91b12465366fd.png "Repobeats analytics image")
+## Recent Activities
 
 **Enjoy!**
