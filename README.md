@@ -19,6 +19,6 @@
 
 ## 近期活动
 
-![Alt](https://repobeats.axiom.co/api/embed/87a2a5aeccf7cc60c31b46e577a91b12465366fd.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/87a2a5aeccf7cc60c31b46e577a91b12465366fd.png "Repobeats analytics image")
 
 **Enjoy!**
